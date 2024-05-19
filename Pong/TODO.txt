@@ -1,0 +1,14 @@
+Game of Pong
+
+components: Player, Ball, Scoreboard, Line?
+
+ok#create screen
+ok#create Player class that is blueprint for two players. One in left one in the right screen
+ok#make them moveabla in Y-axis
+ok#make a ball that is in constant move
+ok#detect collision of ball with wall
+ok#colision with paddles
+# ball outside the ball
+#make scoreboard for one player and other
+#updating score if ball leaves filed left or right
+#make a dash line in the middle
