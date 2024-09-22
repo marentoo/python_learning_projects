@@ -1,0 +1,2 @@
+#projects i don't want public
+password_menager/
