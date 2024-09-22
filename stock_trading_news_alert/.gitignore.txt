@@ -1,0 +1,7 @@
+#Folders
+my_venv/
+__pycache__/
+
+#Files
+config.py
+
