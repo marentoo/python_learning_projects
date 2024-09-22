@@ -1,0 +1,5 @@
+#Folders
+my_venv
+
+#Files
+config.py
