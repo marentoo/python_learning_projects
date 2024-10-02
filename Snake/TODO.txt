@@ -1,8 +1,0 @@
-1. create a snake body
-2. move the snake
-3. control the snake
-
-4. create food and detect collision with food
-5. scoreboard when eat the food
-6. detect collision with wall
-7. detect collision with snake
