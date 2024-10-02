@@ -1,8 +1,0 @@
-TODO
-#1SCRAPE DATA - with beautiful soup
-#1a scrape links 
-1b scrape list of prices
-1clist of addreses
-
-#2AUTOFILL GOOGLE FORM - with selenium
-#3LOAD AND TURN IT INTO SPREADSHEET (TIMESTAMP/ADDRESS/PRICE/LINK)
