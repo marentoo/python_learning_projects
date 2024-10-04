@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-WHAT IT IS AND TO WHOM?
+WHAT IS IT AND WHO IS IT FOR?
 
 This repo is collection of projects done in the course 100days of python. These projects are either one time projects or updated or continued during the course.
 
