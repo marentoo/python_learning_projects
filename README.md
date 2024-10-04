@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 WHAT IS IT AND WHO IS IT FOR?
 
-This repo is collection of projects done in the course 100days of python. These projects are either one time projects or updated or continued during the course.
+This repo is collection of projects done in the course 100days of python.
 
 Target audience includes myself and anyone interested in my exp. with Python, web development, data analytics, and data science—such as recruiters, co-workers, and curious individuals ༼ つ ◕_◕ ༽つ.
 
