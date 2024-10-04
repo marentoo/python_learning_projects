@@ -1,2 +1,6 @@
 #projects i don't want public
 password_menager/
+
+sms_project/config.py
+stock_trading_news_alert/config.py
+stock_trading_news_alert/main.py
