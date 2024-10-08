@@ -1,0 +1,6 @@
+#FOLDERS
+my_venv/
+__pycharm__/
+
+#FILES
+posts.db
