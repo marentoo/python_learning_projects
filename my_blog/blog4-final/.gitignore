@@ -1,6 +1,6 @@
 #FOLDERS
 my_venv/
-__pycharm__/
+__pycache__/
 
 #FILES
 posts.db
